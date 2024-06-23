@@ -1,0 +1,50 @@
+июн. 23, 2024 7:55:27 PM Main main
+INFO: Point 1.1: Start Main
+июн. 23, 2024 7:55:28 PM Calculator.CalculatorComplexNumbersService getOperations
+INFO: Point 3.1: the getOperations method is called
+июн. 23, 2024 7:55:28 PM Calculator.CalculatorComplexNumbers addOperation
+INFO: Point 4.1: the addOperation method is called
+июн. 23, 2024 7:55:28 PM Main main
+FINE: Point 1.2: Created calculatorComplexNumberView
+июн. 23, 2024 7:55:28 PM View.CalculatorComplexNumbersView start
+INFO: Point 2.1: the start method is called
+июн. 23, 2024 7:55:28 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:55:35 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:55:37 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:55:39 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:55:40 PM View.CalculatorComplexNumbersView getOperator
+INFO: Point 2.2: the getOperator method is called
+июн. 23, 2024 7:55:48 PM View.CalculatorComplexNumbersView isInvalidOperator
+INFO: Point 2.3: the isInvalidOperator method is called
+июн. 23, 2024 7:55:48 PM Calculator.CalculatorComplexNumbersService calculate
+INFO: Point 3.2: the calculate method is called
+июн. 23, 2024 7:55:48 PM Calculator.CalculatorComplexNumbers addition
+INFO: Point 4.2: the addition method is called
+июн. 23, 2024 7:55:48 PM Calculator.CalculatorComplexNumbers division
+INFO: Point 4.3: the division method is called
+июн. 23, 2024 7:55:48 PM Calculator.CalculatorComplexNumbers multiplication
+INFO: Point 4.4: the multiplication method is called
+июн. 23, 2024 7:55:48 PM Calculator.CalculatorComplexNumbers subtraction
+INFO: Point 4.5: the subtraction method is called
+июн. 23, 2024 7:57:16 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:57:18 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:57:19 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:57:20 PM View.CalculatorComplexNumbersView promptInt
+INFO: Point 2.4: the promptInt method is called
+июн. 23, 2024 7:57:20 PM View.CalculatorComplexNumbersView getOperator
+INFO: Point 2.2: the getOperator method is called
+июн. 23, 2024 7:57:22 PM View.CalculatorComplexNumbersView isInvalidOperator
+INFO: Point 2.3: the isInvalidOperator method is called
+июн. 23, 2024 7:57:22 PM Calculator.CalculatorComplexNumbersService calculate
+INFO: Point 3.2: the calculate method is called
+июн. 23, 2024 7:57:22 PM Calculator.CalculatorComplexNumbers addition
+INFO: Point 4.2: the addition method is called
+июн. 23, 2024 7:57:50 PM View.CalculatorComplexNumbersView start
+INFO: Stop program
